@@ -1,4 +1,0 @@
-- **Reference ⬇️**
-  - [Forest Image](https://wallhaven.cc/w/zxy3ew)
-  - [Flaticon Logo](https://www.flaticon.com/free-icons/tree)
-  - [Online Tutorials Reverse Effect Blur](https://youtu.be/kojEyXLrY2w?si=oovRAx-VXToQ8LIH)
